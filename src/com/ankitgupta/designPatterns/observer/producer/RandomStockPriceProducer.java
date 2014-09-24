@@ -3,7 +3,7 @@ package com.ankitgupta.designPatterns.observer.producer;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.ankitgupta.designPatterns.observer.StockObserver;
+import com.ankitgupta.designPatterns.observer.observers.StockObserver;
 
 public class RandomStockPriceProducer implements StockPriceProducer {
 

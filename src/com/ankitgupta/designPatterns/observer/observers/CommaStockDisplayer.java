@@ -1,4 +1,4 @@
-package com.ankitgupta.designPatterns.observer;
+package com.ankitgupta.designPatterns.observer.observers;
 
 public class CommaStockDisplayer implements StockObserver {
 

@@ -1,8 +1,8 @@
 package com.ankitgupta.designPatterns.observer.main;
 
-import com.ankitgupta.designPatterns.observer.CommaStockDisplayer;
-import com.ankitgupta.designPatterns.observer.PipeStockObserver;
-import com.ankitgupta.designPatterns.observer.StockObserver;
+import com.ankitgupta.designPatterns.observer.observers.CommaStockDisplayer;
+import com.ankitgupta.designPatterns.observer.observers.PipeStockObserver;
+import com.ankitgupta.designPatterns.observer.observers.StockObserver;
 import com.ankitgupta.designPatterns.observer.producer.RandomStockPriceProducer;
 
 public class ObserverDesignPattern {
